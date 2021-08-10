@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61" started-at="2021-08-10T06:16:26Z" finished-at="2021-08-10T06:16:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61" started-at="2021-08-10T06:16:26Z" finished-at="2021-08-10T06:16:26Z">
+      <class name="org.sample.AmazonTestNG">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.sample.AmazonTestNG@7cd62f43]" name="beforeClass" is-config="true" duration-ms="15" started-at="2021-08-10T06:16:26Z" finished-at="2021-08-10T06:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="tc0()[pri:0, instance:org.sample.AmazonTestNG@7cd62f43]" name="tc0" duration-ms="7" started-at="2021-08-10T06:16:26Z" finished-at="2021-08-10T06:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0 -->
+        <test-method status="PASS" signature="tc01()[pri:0, instance:org.sample.AmazonTestNG@7cd62f43]" name="tc01" duration-ms="2" started-at="2021-08-10T06:16:26Z" finished-at="2021-08-10T06:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tco2()[pri:0, instance:org.sample.AmazonTestNG@7cd62f43]" name="tco2" duration-ms="1" started-at="2021-08-10T06:16:26Z" finished-at="2021-08-10T06:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.sample.AmazonTestNG@7cd62f43]" name="afterClass" is-config="true" duration-ms="1" started-at="2021-08-10T06:16:26Z" finished-at="2021-08-10T06:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.sample.AmazonTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
